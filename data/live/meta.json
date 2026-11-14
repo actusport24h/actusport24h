@@ -1,0 +1,62 @@
+{
+ "source": "ESPN (API publique site.api.espn.com)",
+ "updatedAt": "2026-11-14T13:58:34.158Z",
+ "competitions": [
+  {
+   "id": "fra.1",
+   "name": "Ligue 1",
+   "short": "L1",
+   "standings": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "uefa.champions",
+   "name": "Ligue des champions",
+   "short": "LDC",
+   "standings": true,
+   "matches": 27,
+   "hasTable": true
+  },
+  {
+   "id": "eng.1",
+   "name": "Premier League",
+   "short": "PL",
+   "standings": true,
+   "matches": 20,
+   "hasTable": true
+  },
+  {
+   "id": "esp.1",
+   "name": "Liga",
+   "short": "Liga",
+   "standings": true,
+   "matches": 20,
+   "hasTable": true
+  },
+  {
+   "id": "ita.1",
+   "name": "Serie A",
+   "short": "Serie A",
+   "standings": true,
+   "matches": 20,
+   "hasTable": true
+  },
+  {
+   "id": "ger.1",
+   "name": "Bundesliga",
+   "short": "Bundesliga",
+   "standings": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "uefa.nations",
+   "name": "Ligue des nations",
+   "short": "LDN",
+   "standings": false,
+   "matches": 52,
+   "hasTable": false
+  }
+ ]
+}

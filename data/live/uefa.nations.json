@@ -1,0 +1,1465 @@
+{
+ "id": "uefa.nations",
+ "name": "Ligue des nations",
+ "short": "LDN",
+ "standings": false,
+ "matches": [
+  {
+   "id": "401861146",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "579",
+    "name": "Armenia",
+    "short": "Armenia",
+    "abbr": "ARM",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png",
+    "score": "1",
+    "winner": false
+   },
+   "away": {
+    "id": "445",
+    "name": "Cyprus",
+    "short": "Cyprus",
+    "abbr": "CYP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "Vazgen Sargsyan Republican Stadium"
+  },
+  {
+   "id": "401861145",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "465",
+    "name": "Türkiye",
+    "short": "Türkiye",
+    "abbr": "TUR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+    "score": "1",
+    "winner": false
+   },
+   "away": {
+    "id": "459",
+    "name": "Belgium",
+    "short": "Belgium",
+    "abbr": "BEL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+    "score": "2",
+    "winner": true
+   },
+   "venue": "Göztepe Gürsel Aksel Stadi"
+  },
+  {
+   "id": "401861147",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "585",
+    "name": "Albania",
+    "short": "Albania",
+    "abbr": "ALB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "458",
+    "name": "Finland",
+    "short": "Finland",
+    "abbr": "FIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Air Albania Stadium"
+  },
+  {
+   "id": "401861148",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+8'",
+   "home": {
+    "id": "450",
+    "name": "Czechia",
+    "short": "Czechia",
+    "abbr": "CZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "164",
+    "name": "Spain",
+    "short": "Spain",
+    "abbr": "ESP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "score": "2",
+    "winner": true
+   },
+   "venue": "Generali Arena"
+  },
+  {
+   "id": "401861150",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "448",
+    "name": "England",
+    "short": "England",
+    "abbr": "ENG",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "477",
+    "name": "Croatia",
+    "short": "Croatia",
+    "abbr": "CRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "Wembley Stadium"
+  },
+  {
+   "id": "401861151",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "162",
+    "name": "Italy",
+    "short": "Italy",
+    "abbr": "ITA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+    "score": "3",
+    "winner": true
+   },
+   "away": {
+    "id": "478",
+    "name": "France",
+    "short": "France",
+    "abbr": "FRA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "San Siro"
+  },
+  {
+   "id": "401861152",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "6775",
+    "name": "Montenegro",
+    "short": "Montenegro",
+    "abbr": "MNE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "456",
+    "name": "Latvia",
+    "short": "Latvia",
+    "abbr": "LVA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "Podgorica City Stadium"
+  },
+  {
+   "id": "401861149",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+7'",
+   "home": {
+    "id": "588",
+    "name": "San Marino",
+    "short": "San Marino",
+    "abbr": "SMR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "583",
+    "name": "Belarus",
+    "short": "Belarus",
+    "abbr": "BLR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
+    "score": "2",
+    "winner": true
+   },
+   "venue": "San Marino Stadium"
+  },
+  {
+   "id": "401861162",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "483",
+    "name": "Moldova",
+    "short": "Moldova",
+    "abbr": "MDA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "2619",
+    "name": "Kazakhstan",
+    "short": "Kazakhstan",
+    "abbr": "KAZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "Stadionul Zimbru"
+  },
+  {
+   "id": "401861155",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "587",
+    "name": "Andorra",
+    "short": "Andorra",
+    "abbr": "AND",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/and.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "16721",
+    "name": "Gibraltar",
+    "short": "Gibraltar",
+    "abbr": "GIB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Estadi de la FAF d'Encamp"
+  },
+  {
+   "id": "401861157",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "462",
+    "name": "Bulgaria",
+    "short": "Bulgaria",
+    "abbr": "BUL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "470",
+    "name": "Iceland",
+    "short": "Iceland",
+    "abbr": "ISL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
+    "score": "5",
+    "winner": true
+   },
+   "venue": "Hristo Botev Stadium, Plovdiv"
+  },
+  {
+   "id": "401861153",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+7'",
+   "home": {
+    "id": "589",
+    "name": "Liechtenstein",
+    "short": "Liechtenstein",
+    "abbr": "LIE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "581",
+    "name": "Azerbaijan",
+    "short": "Azerbaijan",
+    "abbr": "AZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aze.png",
+    "score": "1",
+    "winner": true
+   },
+   "venue": "Rheinpark Stadion"
+  },
+  {
+   "id": "401861154",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "582",
+    "name": "Luxembourg",
+    "short": "Luxembourg",
+    "abbr": "LUX",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "444",
+    "name": "Estonia",
+    "short": "Estonia",
+    "abbr": "EST",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
+    "score": "1",
+    "winner": true
+   },
+   "venue": "Stade de Luxembourg"
+  },
+  {
+   "id": "401861159",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+1'",
+   "home": {
+    "id": "449",
+    "name": "Netherlands",
+    "short": "Netherlands",
+    "abbr": "NED",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+    "score": "7",
+    "winner": true
+   },
+   "away": {
+    "id": "455",
+    "name": "Greece",
+    "short": "Greece",
+    "abbr": "GRE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Johan Cruijff Arena"
+  },
+  {
+   "id": "401861161",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "580",
+    "name": "Scotland",
+    "short": "Scotland",
+    "abbr": "SCO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+    "score": "2",
+    "winner": true
+   },
+   "away": {
+    "id": "463",
+    "name": "North Macedonia",
+    "short": "North Macedonia",
+    "abbr": "MKD",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
+    "score": "1",
+    "winner": false
+   },
+   "venue": "Hampden Park"
+  },
+  {
+   "id": "401861158",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "6757",
+    "name": "Serbia",
+    "short": "Serbia",
+    "abbr": "SRB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+    "score": "1",
+    "winner": false
+   },
+   "away": {
+    "id": "481",
+    "name": "Germany",
+    "short": "Germany",
+    "abbr": "GER",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+    "score": "3",
+    "winner": true
+   },
+   "venue": "Rajko Mitic Stadium"
+  },
+  {
+   "id": "401861160",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "468",
+    "name": "Slovakia",
+    "short": "Slovakia",
+    "abbr": "SVK",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
+    "score": "2",
+    "winner": false
+   },
+   "away": {
+    "id": "447",
+    "name": "Faroe Islands",
+    "short": "Faroe Islands",
+    "abbr": "FRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
+    "score": "2",
+    "winner": false
+   },
+   "venue": "Košická futbalová aréna (KFA)"
+  },
+  {
+   "id": "401861156",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "472",
+    "name": "Slovenia",
+    "short": "Slovenia",
+    "abbr": "SVN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "475",
+    "name": "Switzerland",
+    "short": "Switzerland",
+    "abbr": "SUI",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Ljudski vrt"
+  },
+  {
+   "id": "401861163",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T14:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "18272",
+    "name": "Kosovo",
+    "short": "Kosovo",
+    "abbr": "KOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "461",
+    "name": "Israel",
+    "short": "Israel",
+    "abbr": "ISR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Stadiumi Fadil Vokrri"
+  },
+  {
+   "id": "401861164",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "584",
+    "name": "Georgia",
+    "short": "Georgia",
+    "abbr": "GEO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "480",
+    "name": "Hungary",
+    "short": "Hungary",
+    "abbr": "HUN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Mikheil Meskhi Stadioni"
+  },
+  {
+   "id": "401861165",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "464",
+    "name": "Norway",
+    "short": "Norway",
+    "abbr": "NOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "578",
+    "name": "Wales",
+    "short": "Wales",
+    "abbr": "WAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Ullevaal Stadion"
+  },
+  {
+   "id": "401861170",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "474",
+    "name": "Austria",
+    "short": "Austria",
+    "abbr": "AUT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "476",
+    "name": "Republic of Ireland",
+    "short": "Rep Ireland",
+    "abbr": "IRL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Raiffeisen Arena (Linz)"
+  },
+  {
+   "id": "401861169",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "586",
+    "name": "Northern Ireland",
+    "short": "N Ireland",
+    "abbr": "NIR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "457",
+    "name": "Ukraine",
+    "short": "Ukraine",
+    "abbr": "UKR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Windsor Park"
+  },
+  {
+   "id": "401861167",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "482",
+    "name": "Portugal",
+    "short": "Portugal",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "479",
+    "name": "Denmark",
+    "short": "Denmark",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Estádio Municipal de Braga"
+  },
+  {
+   "id": "401861168",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "473",
+    "name": "Romania",
+    "short": "Romania",
+    "abbr": "ROU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "471",
+    "name": "Poland",
+    "short": "Poland",
+    "abbr": "POL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "National Arena"
+  },
+  {
+   "id": "401861166",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "466",
+    "name": "Sweden",
+    "short": "Sweden",
+    "abbr": "SWE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "452",
+    "name": "Bosnia-Herzegovina",
+    "short": "Bosnia-Herz",
+    "abbr": "BIH",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Friends Arena"
+  },
+  {
+   "id": "401861172",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T14:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "445",
+    "name": "Cyprus",
+    "short": "Cyprus",
+    "abbr": "CYP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "6775",
+    "name": "Montenegro",
+    "short": "Montenegro",
+    "abbr": "MNE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Alphamega Stadium"
+  },
+  {
+   "id": "401861171",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T14:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "456",
+    "name": "Latvia",
+    "short": "Latvia",
+    "abbr": "LVA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "579",
+    "name": "Armenia",
+    "short": "Armenia",
+    "abbr": "ARM",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Skonto Stadions"
+  },
+  {
+   "id": "401861173",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "583",
+    "name": "Belarus",
+    "short": "Belarus",
+    "abbr": "BLR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "585",
+    "name": "Albania",
+    "short": "Albania",
+    "abbr": "ALB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Illovszky Rudolf Stadion"
+  },
+  {
+   "id": "401861174",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "458",
+    "name": "Finland",
+    "short": "Finland",
+    "abbr": "FIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "588",
+    "name": "San Marino",
+    "short": "San Marino",
+    "abbr": "SMR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Bolt Arena"
+  },
+  {
+   "id": "401861176",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "459",
+    "name": "Belgium",
+    "short": "Belgium",
+    "abbr": "BEL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "162",
+    "name": "Italy",
+    "short": "Italy",
+    "abbr": "ITA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "King Baudouin Stadium"
+  },
+  {
+   "id": "401861178",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "477",
+    "name": "Croatia",
+    "short": "Croatia",
+    "abbr": "CRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "450",
+    "name": "Czechia",
+    "short": "Czechia",
+    "abbr": "CZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Opus Arena"
+  },
+  {
+   "id": "401861177",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "478",
+    "name": "France",
+    "short": "France",
+    "abbr": "FRA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "465",
+    "name": "Türkiye",
+    "short": "Türkiye",
+    "abbr": "TUR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Stade Atlantique"
+  },
+  {
+   "id": "401861175",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "164",
+    "name": "Spain",
+    "short": "Spain",
+    "abbr": "ESP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "448",
+    "name": "England",
+    "short": "England",
+    "abbr": "ENG",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Riyadh Air Metropolitano"
+  },
+  {
+   "id": "401861180",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T15:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "447",
+    "name": "Faroe Islands",
+    "short": "Faroe Islands",
+    "abbr": "FRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "483",
+    "name": "Moldova",
+    "short": "Moldova",
+    "abbr": "MDA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Tórsvollur"
+  },
+  {
+   "id": "401861181",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T15:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "2619",
+    "name": "Kazakhstan",
+    "short": "Kazakhstan",
+    "abbr": "KAZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "468",
+    "name": "Slovakia",
+    "short": "Slovakia",
+    "abbr": "SVK",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Astana Arena"
+  },
+  {
+   "id": "401861183",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "444",
+    "name": "Estonia",
+    "short": "Estonia",
+    "abbr": "EST",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "462",
+    "name": "Bulgaria",
+    "short": "Bulgaria",
+    "abbr": "BUL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "A. Le Coq Arena"
+  },
+  {
+   "id": "401861182",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "470",
+    "name": "Iceland",
+    "short": "Iceland",
+    "abbr": "ISL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "582",
+    "name": "Luxembourg",
+    "short": "Luxembourg",
+    "abbr": "LUX",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Laugardalsvöllur"
+  },
+  {
+   "id": "401861184",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "460",
+    "name": "Lithuania",
+    "short": "Lithuania",
+    "abbr": "LTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "589",
+    "name": "Liechtenstein",
+    "short": "Liechtenstein",
+    "abbr": "LIE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "S. Darius and S. Gireno Stadium"
+  },
+  {
+   "id": "401861185",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "481",
+    "name": "Germany",
+    "short": "Germany",
+    "abbr": "GER",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "449",
+    "name": "Netherlands",
+    "short": "Netherlands",
+    "abbr": "NED",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Olympic Stadium Berlin"
+  },
+  {
+   "id": "401861179",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "16721",
+    "name": "Gibraltar",
+    "short": "Gibraltar",
+    "abbr": "GIB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "453",
+    "name": "Malta",
+    "short": "Malta",
+    "abbr": "MLT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Europa Point Stadium"
+  },
+  {
+   "id": "401861188",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "455",
+    "name": "Greece",
+    "short": "Greece",
+    "abbr": "GRE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "6757",
+    "name": "Serbia",
+    "short": "Serbia",
+    "abbr": "SRB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Panthessaliko Stadium"
+  },
+  {
+   "id": "401861187",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "463",
+    "name": "North Macedonia",
+    "short": "North Macedonia",
+    "abbr": "MKD",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "472",
+    "name": "Slovenia",
+    "short": "Slovenia",
+    "abbr": "SVN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Toše Proeski Arena"
+  },
+  {
+   "id": "401861186",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "475",
+    "name": "Switzerland",
+    "short": "Switzerland",
+    "abbr": "SUI",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "580",
+    "name": "Scotland",
+    "short": "Scotland",
+    "abbr": "SCO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Kybunpark"
+  },
+  {
+   "id": "401861196",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "452",
+    "name": "Bosnia-Herzegovina",
+    "short": "Bosnia-Herz",
+    "abbr": "BIH",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "473",
+    "name": "Romania",
+    "short": "Romania",
+    "abbr": "ROU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Bilino Polje Stadium"
+  },
+  {
+   "id": "401861194",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "479",
+    "name": "Denmark",
+    "short": "Denmark",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "464",
+    "name": "Norway",
+    "short": "Norway",
+    "abbr": "NOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Parken Stadium"
+  },
+  {
+   "id": "401861191",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "480",
+    "name": "Hungary",
+    "short": "Hungary",
+    "abbr": "HUN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "586",
+    "name": "Northern Ireland",
+    "short": "N Ireland",
+    "abbr": "NIR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Puskás Aréna"
+  },
+  {
+   "id": "401861193",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "461",
+    "name": "Israel",
+    "short": "Israel",
+    "abbr": "ISR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "474",
+    "name": "Austria",
+    "short": "Austria",
+    "abbr": "AUT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Nagyerdei Stadium"
+  },
+  {
+   "id": "401861195",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "471",
+    "name": "Poland",
+    "short": "Poland",
+    "abbr": "POL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "466",
+    "name": "Sweden",
+    "short": "Sweden",
+    "abbr": "SWE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Municipal Stadium Wroclaw"
+  },
+  {
+   "id": "401861192",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "476",
+    "name": "Republic of Ireland",
+    "short": "Rep Ireland",
+    "abbr": "IRL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "18272",
+    "name": "Kosovo",
+    "short": "Kosovo",
+    "abbr": "KOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Aviva Stadium"
+  },
+  {
+   "id": "401861190",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "457",
+    "name": "Ukraine",
+    "short": "Ukraine",
+    "abbr": "UKR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "584",
+    "name": "Georgia",
+    "short": "Georgia",
+    "abbr": "GEO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Košická futbalová aréna (KFA)"
+  },
+  {
+   "id": "401861189",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "pre",
+   "status": "STATUS_SCHEDULED",
+   "detail": "Scheduled",
+   "clock": "0'",
+   "home": {
+    "id": "578",
+    "name": "Wales",
+    "short": "Wales",
+    "abbr": "WAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+    "score": "0",
+    "winner": false
+   },
+   "away": {
+    "id": "482",
+    "name": "Portugal",
+    "short": "Portugal",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+    "score": "0",
+    "winner": false
+   },
+   "venue": "Cardiff City Stadium"
+  }
+ ],
+ "table": null
+}
