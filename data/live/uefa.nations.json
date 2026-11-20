@@ -1,0 +1,3230 @@
+{
+ "id": "uefa.nations",
+ "name": "Ligue des nations",
+ "short": "LDN",
+ "standings": false,
+ "matches": [
+  {
+   "id": "401861146",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "579",
+    "name": "Armenia",
+    "short": "Armenia",
+    "abbr": "ARM",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "445",
+    "name": "Cyprus",
+    "short": "Cyprus",
+    "abbr": "CYP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Vazgen Sargsyan Republican Stadium",
+   "scorers": [
+    {
+     "min": "9'",
+     "kind": "goal",
+     "team": "445",
+     "s": "a",
+     "player": "Iasonas Pikis",
+     "short": "I. Pikis",
+     "pid": "326589",
+     "label": "Iasonas Pikis 9'"
+    },
+    {
+     "min": "58'",
+     "kind": "goal",
+     "team": "579",
+     "s": "h",
+     "player": "Artur Gharibyan",
+     "short": "A. Gharibyan",
+     "pid": "412084",
+     "label": "Artur Gharibyan 58'"
+    }
+   ]
+  },
+  {
+   "id": "401861145",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "465",
+    "name": "Türkiye",
+    "short": "Türkiye",
+    "abbr": "TUR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "459",
+    "name": "Belgium",
+    "short": "Belgium",
+    "abbr": "BEL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Göztepe Gürsel Aksel Stadi",
+   "scorers": [
+    {
+     "min": "20'",
+     "kind": "goal",
+     "team": "465",
+     "s": "h",
+     "player": "Arda Güler",
+     "short": "A. Güler",
+     "pid": "310452",
+     "label": "Arda Güler 20'"
+    },
+    {
+     "min": "27'",
+     "kind": "goal",
+     "team": "459",
+     "s": "a",
+     "player": "Kevin De Bruyne",
+     "short": "K. De Bruyne",
+     "pid": "134947",
+     "label": "Kevin De Bruyne 27'"
+    },
+    {
+     "min": "30'",
+     "kind": "goal",
+     "team": "459",
+     "s": "a",
+     "player": "Charles De Ketelaere",
+     "short": "C. De Ketelaere",
+     "pid": "296319",
+     "label": "Charles De Ketelaere 30'"
+    }
+   ]
+  },
+  {
+   "id": "401861147",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "585",
+    "name": "Albania",
+    "short": "Albania",
+    "abbr": "ALB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "458",
+    "name": "Finland",
+    "short": "Finland",
+    "abbr": "FIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Air Albania Stadium",
+   "scorers": [
+    {
+     "min": "35'",
+     "kind": "goal",
+     "team": "585",
+     "s": "h",
+     "player": "Ernest Muçi",
+     "short": "E. Muçi",
+     "pid": "305542",
+     "label": "Ernest Muçi 35'"
+    },
+    {
+     "min": "50'",
+     "kind": "goal",
+     "team": "585",
+     "s": "h",
+     "player": "Rey Manaj",
+     "short": "R. Manaj",
+     "pid": "210042",
+     "label": "Rey Manaj 50'"
+    }
+   ]
+  },
+  {
+   "id": "401861148",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+8'",
+   "home": {
+    "id": "450",
+    "name": "Czechia",
+    "short": "Czechia",
+    "abbr": "CZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "164",
+    "name": "Spain",
+    "short": "Spain",
+    "abbr": "ESP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Generali Arena",
+   "scorers": [
+    {
+     "min": "39'",
+     "kind": "pen",
+     "team": "164",
+     "s": "a",
+     "player": "Álex Baena",
+     "short": "Á. Baena",
+     "pid": "297373",
+     "label": "Álex Baena (sp) 39'"
+    },
+    {
+     "min": "90'+6'",
+     "kind": "goal",
+     "team": "164",
+     "s": "a",
+     "player": "Marc Pubill",
+     "short": "M. Pubill",
+     "pid": "332613",
+     "label": "Marc Pubill 90'+6'"
+    }
+   ]
+  },
+  {
+   "id": "401861150",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "448",
+    "name": "England",
+    "short": "England",
+    "abbr": "ENG",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "477",
+    "name": "Croatia",
+    "short": "Croatia",
+    "abbr": "CRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Wembley Stadium",
+   "scorers": [
+    {
+     "min": "24'",
+     "kind": "goal",
+     "team": "448",
+     "s": "h",
+     "player": "Morgan Rogers",
+     "short": "M. Rogers",
+     "pid": "265653",
+     "label": "Morgan Rogers 24'"
+    },
+    {
+     "min": "59'",
+     "kind": "goal",
+     "team": "477",
+     "s": "a",
+     "player": "Petar Sucic",
+     "short": "P. Sucic",
+     "pid": "341494",
+     "label": "Petar Sucic 59'"
+    },
+    {
+     "min": "64'",
+     "kind": "pen",
+     "team": "448",
+     "s": "h",
+     "player": "Harry Kane",
+     "short": "H. Kane",
+     "pid": "142200",
+     "label": "Harry Kane (sp) 64'"
+    }
+   ]
+  },
+  {
+   "id": "401861151",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "162",
+    "name": "Italy",
+    "short": "Italy",
+    "abbr": "ITA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "478",
+    "name": "France",
+    "short": "France",
+    "abbr": "FRA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "San Siro",
+   "scorers": [
+    {
+     "min": "10'",
+     "kind": "goal",
+     "team": "478",
+     "s": "a",
+     "player": "Michael Olise",
+     "short": "M. Olise",
+     "pid": "286831",
+     "label": "Michael Olise 10'"
+    },
+    {
+     "min": "26'",
+     "kind": "goal",
+     "team": "162",
+     "s": "h",
+     "player": "Pio Esposito",
+     "short": "P. Esposito",
+     "pid": "362674",
+     "label": "Pio Esposito 26'"
+    },
+    {
+     "min": "63'",
+     "kind": "goal",
+     "team": "162",
+     "s": "h",
+     "player": "Davide Frattesi",
+     "short": "D. Frattesi",
+     "pid": "250850",
+     "label": "Davide Frattesi 63'"
+    },
+    {
+     "min": "75'",
+     "kind": "pen",
+     "team": "162",
+     "s": "h",
+     "player": "Pio Esposito",
+     "short": "P. Esposito",
+     "pid": "362674",
+     "label": "Pio Esposito (sp) 75'"
+    }
+   ]
+  },
+  {
+   "id": "401861152",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "6775",
+    "name": "Montenegro",
+    "short": "Montenegro",
+    "abbr": "MNE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "456",
+    "name": "Latvia",
+    "short": "Latvia",
+    "abbr": "LVA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Podgorica City Stadium",
+   "scorers": [
+    {
+     "min": "70'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "h",
+     "player": "Nikola Krstovic",
+     "short": "N. Krstovic",
+     "pid": "258158",
+     "label": "Nikola Krstovic 70'"
+    },
+    {
+     "min": "72'",
+     "kind": "goal",
+     "team": "456",
+     "s": "a",
+     "player": "Deniss Melniks",
+     "short": "D. Melniks",
+     "pid": "326507",
+     "label": "Deniss Melniks 72'"
+    },
+    {
+     "min": "90'+1'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "h",
+     "player": "Aleksa Maras",
+     "short": "A. Maras",
+     "pid": "321931",
+     "label": "Aleksa Maras 90'+1'"
+    }
+   ]
+  },
+  {
+   "id": "401861149",
+   "comp": "uefa.nations",
+   "date": "2026-11-12T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+7'",
+   "home": {
+    "id": "588",
+    "name": "San Marino",
+    "short": "San Marino",
+    "abbr": "SMR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "583",
+    "name": "Belarus",
+    "short": "Belarus",
+    "abbr": "BLR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "venue": "San Marino Stadium",
+   "scorers": [
+    {
+     "min": "12'",
+     "kind": "goal",
+     "team": "583",
+     "s": "a",
+     "player": "Kirill Gomanov",
+     "short": "K. Gomanov",
+     "pid": "382353",
+     "label": "Kirill Gomanov 12'"
+    },
+    {
+     "min": "17'",
+     "kind": "goal",
+     "team": "583",
+     "s": "a",
+     "player": "Artem Kontsevoy",
+     "short": "A. Kontsevoy",
+     "pid": "325869",
+     "label": "Artem Kontsevoy 17'"
+    }
+   ]
+  },
+  {
+   "id": "401861162",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "483",
+    "name": "Moldova",
+    "short": "Moldova",
+    "abbr": "MDA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "2619",
+    "name": "Kazakhstan",
+    "short": "Kazakhstan",
+    "abbr": "KAZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Stadionul Zimbru",
+   "scorers": [
+    {
+     "min": "39'",
+     "kind": "goal",
+     "team": "483",
+     "s": "h",
+     "player": "Petru Popescu",
+     "short": "P. Popescu",
+     "pid": "401267",
+     "label": "Petru Popescu 39'"
+    },
+    {
+     "min": "51'",
+     "kind": "goal",
+     "team": "2619",
+     "s": "a",
+     "player": "Islam Chesnokov",
+     "short": "I. Chesnokov",
+     "pid": "363855",
+     "label": "Islam Chesnokov 51'"
+    },
+    {
+     "min": "77'",
+     "kind": "goal",
+     "team": "483",
+     "s": "h",
+     "player": "Petru Popescu",
+     "short": "P. Popescu",
+     "pid": "401267",
+     "label": "Petru Popescu 77'"
+    }
+   ]
+  },
+  {
+   "id": "401861155",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "587",
+    "name": "Andorra",
+    "short": "Andorra",
+    "abbr": "AND",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/and.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "16721",
+    "name": "Gibraltar",
+    "short": "Gibraltar",
+    "abbr": "GIB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Estadi de la FAF d'Encamp",
+   "scorers": [
+    {
+     "min": "24'",
+     "kind": "goal",
+     "team": "587",
+     "s": "h",
+     "player": "Guillaume Lopez",
+     "short": "G. Lopez",
+     "pid": "305877",
+     "label": "Guillaume Lopez 24'"
+    },
+    {
+     "min": "35'",
+     "kind": "goal",
+     "team": "587",
+     "s": "h",
+     "player": "Albert Rosas",
+     "short": "A. Rosas",
+     "pid": "326550",
+     "label": "Albert Rosas 35'"
+    }
+   ]
+  },
+  {
+   "id": "401861157",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "462",
+    "name": "Bulgaria",
+    "short": "Bulgaria",
+    "abbr": "BUL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "470",
+    "name": "Iceland",
+    "short": "Iceland",
+    "abbr": "ISL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
+    "score": "5",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Hristo Botev Stadium, Plovdiv",
+   "scorers": [
+    {
+     "min": "17'",
+     "kind": "pen",
+     "team": "470",
+     "s": "a",
+     "player": "Andri Gudjohnsen",
+     "short": "A. Gudjohnsen",
+     "pid": "326075",
+     "label": "Andri Gudjohnsen (sp) 17'"
+    },
+    {
+     "min": "21'",
+     "kind": "goal",
+     "team": "470",
+     "s": "a",
+     "player": "Orri Óskarsson",
+     "short": "O. Óskarsson",
+     "pid": "341367",
+     "label": "Orri Óskarsson 21'"
+    },
+    {
+     "min": "52'",
+     "kind": "og",
+     "team": "470",
+     "s": "a",
+     "player": "Emil Tsenov",
+     "short": "E. Tsenov",
+     "pid": "364237",
+     "label": "Emil Tsenov (csc) 52'"
+    },
+    {
+     "min": "68'",
+     "kind": "goal",
+     "team": "470",
+     "s": "a",
+     "player": "Andri Gudjohnsen",
+     "short": "A. Gudjohnsen",
+     "pid": "326075",
+     "label": "Andri Gudjohnsen 68'"
+    },
+    {
+     "min": "79'",
+     "kind": "goal",
+     "team": "470",
+     "s": "a",
+     "player": "Andri Gudjohnsen",
+     "short": "A. Gudjohnsen",
+     "pid": "326075",
+     "label": "Andri Gudjohnsen 79'"
+    }
+   ]
+  },
+  {
+   "id": "401861153",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+7'",
+   "home": {
+    "id": "589",
+    "name": "Liechtenstein",
+    "short": "Liechtenstein",
+    "abbr": "LIE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "581",
+    "name": "Azerbaijan",
+    "short": "Azerbaijan",
+    "abbr": "AZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aze.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Rheinpark Stadion",
+   "scorers": [
+    {
+     "min": "26'",
+     "kind": "goal",
+     "team": "581",
+     "s": "a",
+     "player": "Mahir Emreli",
+     "short": "M. Emreli",
+     "pid": "226974",
+     "label": "Mahir Emreli 26'"
+    }
+   ]
+  },
+  {
+   "id": "401861154",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "582",
+    "name": "Luxembourg",
+    "short": "Luxembourg",
+    "abbr": "LUX",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "444",
+    "name": "Estonia",
+    "short": "Estonia",
+    "abbr": "EST",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Stade de Luxembourg",
+   "scorers": [
+    {
+     "min": "42'",
+     "kind": "goal",
+     "team": "444",
+     "s": "a",
+     "player": "Maksim Paskotši",
+     "short": "M. Paskotši",
+     "pid": "305459",
+     "label": "Maksim Paskotši 42'"
+    }
+   ]
+  },
+  {
+   "id": "401861159",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+1'",
+   "home": {
+    "id": "449",
+    "name": "Netherlands",
+    "short": "Netherlands",
+    "abbr": "NED",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+    "score": "7",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "455",
+    "name": "Greece",
+    "short": "Greece",
+    "abbr": "GRE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Johan Cruijff Arena",
+   "scorers": [
+    {
+     "min": "6'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Crysencio Summerville",
+     "short": "C. Summerville",
+     "pid": "284792",
+     "label": "Crysencio Summerville 6'"
+    },
+    {
+     "min": "12'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Tijjani Reijnders",
+     "short": "T. Reijnders",
+     "pid": "261328",
+     "label": "Tijjani Reijnders 12'"
+    },
+    {
+     "min": "18'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Tijjani Reijnders",
+     "short": "T. Reijnders",
+     "pid": "261328",
+     "label": "Tijjani Reijnders 18'"
+    },
+    {
+     "min": "33'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Tijjani Reijnders",
+     "short": "T. Reijnders",
+     "pid": "261328",
+     "label": "Tijjani Reijnders 33'"
+    },
+    {
+     "min": "40'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Jurriën Timber",
+     "short": "J. Timber",
+     "pid": "282716",
+     "label": "Jurriën Timber 40'"
+    },
+    {
+     "min": "59'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Jurriën Timber",
+     "short": "J. Timber",
+     "pid": "282716",
+     "label": "Jurriën Timber 59'"
+    },
+    {
+     "min": "61'",
+     "kind": "goal",
+     "team": "449",
+     "s": "h",
+     "player": "Donyell Malen",
+     "short": "D. Malen",
+     "pid": "259481",
+     "label": "Donyell Malen 61'"
+    }
+   ]
+  },
+  {
+   "id": "401861161",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "580",
+    "name": "Scotland",
+    "short": "Scotland",
+    "abbr": "SCO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "463",
+    "name": "North Macedonia",
+    "short": "North Macedonia",
+    "abbr": "MKD",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Hampden Park",
+   "scorers": [
+    {
+     "min": "54'",
+     "kind": "goal",
+     "team": "580",
+     "s": "h",
+     "player": "John McGinn",
+     "short": "J. McGinn",
+     "pid": "162843",
+     "label": "John McGinn 54'"
+    },
+    {
+     "min": "57'",
+     "kind": "goal",
+     "team": "463",
+     "s": "a",
+     "player": "Elmin Rastoder",
+     "short": "E. Rastoder",
+     "pid": "320850",
+     "label": "Elmin Rastoder 57'"
+    },
+    {
+     "min": "74'",
+     "kind": "pen",
+     "team": "580",
+     "s": "h",
+     "player": "John McGinn",
+     "short": "J. McGinn",
+     "pid": "162843",
+     "label": "John McGinn (sp) 74'"
+    }
+   ]
+  },
+  {
+   "id": "401861158",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "6757",
+    "name": "Serbia",
+    "short": "Serbia",
+    "abbr": "SRB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "481",
+    "name": "Germany",
+    "short": "Germany",
+    "abbr": "GER",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Rajko Mitic Stadium",
+   "scorers": [
+    {
+     "min": "3'",
+     "kind": "og",
+     "team": "481",
+     "s": "a",
+     "player": "Srjdan Babic",
+     "short": "S. Babic",
+     "pid": "219535",
+     "label": "Srjdan Babic (csc) 3'"
+    },
+    {
+     "min": "14'",
+     "kind": "goal",
+     "team": "481",
+     "s": "a",
+     "player": "Florian Wirtz",
+     "short": "F. Wirtz",
+     "pid": "303748",
+     "label": "Florian Wirtz 14'"
+    },
+    {
+     "min": "50'",
+     "kind": "goal",
+     "team": "481",
+     "s": "a",
+     "player": "Brajan Gruda",
+     "short": "B. Gruda",
+     "pid": "357683",
+     "label": "Brajan Gruda 50'"
+    },
+    {
+     "min": "56'",
+     "kind": "goal",
+     "team": "6757",
+     "s": "h",
+     "player": "Srjdan Babic",
+     "short": "S. Babic",
+     "pid": "219535",
+     "label": "Srjdan Babic 56'"
+    }
+   ]
+  },
+  {
+   "id": "401861160",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "468",
+    "name": "Slovakia",
+    "short": "Slovakia",
+    "abbr": "SVK",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "447",
+    "name": "Faroe Islands",
+    "short": "Faroe Islands",
+    "abbr": "FRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Košická futbalová aréna (KFA)",
+   "scorers": [
+    {
+     "min": "17'",
+     "kind": "goal",
+     "team": "468",
+     "s": "h",
+     "player": "Erik Prekop",
+     "short": "E. Prekop",
+     "pid": "239044",
+     "label": "Erik Prekop 17'"
+    },
+    {
+     "min": "30'",
+     "kind": "pen",
+     "team": "447",
+     "s": "a",
+     "player": "Viljormur Davidsen",
+     "short": "V. Davidsen",
+     "pid": "158338",
+     "label": "Viljormur Davidsen (sp) 30'"
+    },
+    {
+     "min": "47'",
+     "kind": "goal",
+     "team": "447",
+     "s": "a",
+     "player": "Áki Debes Samuelsen",
+     "short": "Á. Samuelsen",
+     "pid": "305836",
+     "label": "Áki Debes Samuelsen 47'"
+    },
+    {
+     "min": "74'",
+     "kind": "goal",
+     "team": "468",
+     "s": "h",
+     "player": "Lukás Haraslín",
+     "short": "L. Haraslín",
+     "pid": "194966",
+     "label": "Lukás Haraslín 74'"
+    }
+   ]
+  },
+  {
+   "id": "401861156",
+   "comp": "uefa.nations",
+   "date": "2026-11-13T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "472",
+    "name": "Slovenia",
+    "short": "Slovenia",
+    "abbr": "SVN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "475",
+    "name": "Switzerland",
+    "short": "Switzerland",
+    "abbr": "SUI",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Ljudski vrt",
+   "scorers": []
+  },
+  {
+   "id": "401861163",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T14:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "18272",
+    "name": "Kosovo",
+    "short": "Kosovo",
+    "abbr": "KOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "461",
+    "name": "Israel",
+    "short": "Israel",
+    "abbr": "ISR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Stadiumi Fadil Vokrri",
+   "scorers": []
+  },
+  {
+   "id": "401861164",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "584",
+    "name": "Georgia",
+    "short": "Georgia",
+    "abbr": "GEO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "480",
+    "name": "Hungary",
+    "short": "Hungary",
+    "abbr": "HUN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Mikheil Meskhi Stadioni",
+   "scorers": [
+    {
+     "min": "73'",
+     "kind": "og",
+     "team": "480",
+     "s": "a",
+     "player": "Lasha Dvali",
+     "short": "L. Dvali",
+     "pid": "212968",
+     "label": "Lasha Dvali (csc) 73'"
+    },
+    {
+     "min": "85'",
+     "kind": "goal",
+     "team": "480",
+     "s": "a",
+     "player": "Barnabás Varga",
+     "short": "B. Varga",
+     "pid": "246666",
+     "label": "Barnabás Varga 85'"
+    }
+   ]
+  },
+  {
+   "id": "401861165",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "464",
+    "name": "Norway",
+    "short": "Norway",
+    "abbr": "NOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "578",
+    "name": "Wales",
+    "short": "Wales",
+    "abbr": "WAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Ullevaal Stadion",
+   "scorers": [
+    {
+     "min": "59'",
+     "kind": "goal",
+     "team": "464",
+     "s": "h",
+     "player": "Antonio Nusa",
+     "short": "A. Nusa",
+     "pid": "319368",
+     "label": "Antonio Nusa 59'"
+    },
+    {
+     "min": "68'",
+     "kind": "goal",
+     "team": "464",
+     "s": "h",
+     "player": "Andreas Schjelderup",
+     "short": "A. Schjelderup",
+     "pid": "313415",
+     "label": "Andreas Schjelderup 68'"
+    },
+    {
+     "min": "79'",
+     "kind": "goal",
+     "team": "578",
+     "s": "a",
+     "player": "David Brooks",
+     "short": "D. Brooks",
+     "pid": "72487",
+     "label": "David Brooks 79'"
+    },
+    {
+     "min": "88'",
+     "kind": "pen",
+     "team": "464",
+     "s": "h",
+     "player": "Erling Haaland",
+     "short": "E. Haaland",
+     "pid": "253989",
+     "label": "Erling Haaland (sp) 88'"
+    }
+   ]
+  },
+  {
+   "id": "401861170",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "474",
+    "name": "Austria",
+    "short": "Austria",
+    "abbr": "AUT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "476",
+    "name": "Republic of Ireland",
+    "short": "Rep Ireland",
+    "abbr": "IRL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Raiffeisen Arena (Linz)",
+   "scorers": [
+    {
+     "min": "78'",
+     "kind": "goal",
+     "team": "474",
+     "s": "h",
+     "player": "Sasa Kalajdzic",
+     "short": "S. Kalajdzic",
+     "pid": "259131",
+     "label": "Sasa Kalajdzic 78'"
+    }
+   ]
+  },
+  {
+   "id": "401861169",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "586",
+    "name": "Northern Ireland",
+    "short": "N Ireland",
+    "abbr": "NIR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "457",
+    "name": "Ukraine",
+    "short": "Ukraine",
+    "abbr": "UKR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Windsor Park",
+   "scorers": [
+    {
+     "min": "68'",
+     "kind": "goal",
+     "team": "586",
+     "s": "h",
+     "player": "Terry Devlin",
+     "short": "T. Devlin",
+     "pid": "338292",
+     "label": "Terry Devlin 68'"
+    }
+   ]
+  },
+  {
+   "id": "401861167",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "482",
+    "name": "Portugal",
+    "short": "Portugal",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "479",
+    "name": "Denmark",
+    "short": "Denmark",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+    "score": "4",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Estádio Municipal de Braga",
+   "scorers": [
+    {
+     "min": "43'",
+     "kind": "pen",
+     "team": "479",
+     "s": "a",
+     "player": "Pierre-Emile Højbjerg",
+     "short": "P. Højbjerg",
+     "pid": "159543",
+     "label": "Pierre-Emile Højbjerg (sp) 43'"
+    },
+    {
+     "min": "49'",
+     "kind": "goal",
+     "team": "479",
+     "s": "a",
+     "player": "Rasmus Højlund",
+     "short": "R. Højlund",
+     "pid": "309273",
+     "label": "Rasmus Højlund 49'"
+    },
+    {
+     "min": "57'",
+     "kind": "goal",
+     "team": "479",
+     "s": "a",
+     "player": "Rasmus Højlund",
+     "short": "R. Højlund",
+     "pid": "309273",
+     "label": "Rasmus Højlund 57'"
+    },
+    {
+     "min": "75'",
+     "kind": "goal",
+     "team": "479",
+     "s": "a",
+     "player": "Joachim Andersen",
+     "short": "J. Andersen",
+     "pid": "196081",
+     "label": "Joachim Andersen 75'"
+    },
+    {
+     "min": "90'+3'",
+     "kind": "goal",
+     "team": "482",
+     "s": "h",
+     "player": "Bernardo Silva",
+     "short": "B. Silva",
+     "pid": "199833",
+     "label": "Bernardo Silva 90'+3'"
+    }
+   ]
+  },
+  {
+   "id": "401861168",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "473",
+    "name": "Romania",
+    "short": "Romania",
+    "abbr": "ROU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "471",
+    "name": "Poland",
+    "short": "Poland",
+    "abbr": "POL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "National Arena",
+   "scorers": [
+    {
+     "min": "68'",
+     "kind": "goal",
+     "team": "473",
+     "s": "h",
+     "player": "Alexandru Cicaldau",
+     "short": "A. Cicaldau",
+     "pid": "239724",
+     "label": "Alexandru Cicaldau 68'"
+    },
+    {
+     "min": "72'",
+     "kind": "goal",
+     "team": "473",
+     "s": "h",
+     "player": "Dennis Man",
+     "short": "D. Man",
+     "pid": "245805",
+     "label": "Dennis Man 72'"
+    },
+    {
+     "min": "82'",
+     "kind": "goal",
+     "team": "471",
+     "s": "a",
+     "player": "Marcel Regula",
+     "short": "M. Regula",
+     "pid": "376471",
+     "label": "Marcel Regula 82'"
+    }
+   ]
+  },
+  {
+   "id": "401861166",
+   "comp": "uefa.nations",
+   "date": "2026-11-14T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "466",
+    "name": "Sweden",
+    "short": "Sweden",
+    "abbr": "SWE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "452",
+    "name": "Bosnia-Herzegovina",
+    "short": "Bosnia-Herz",
+    "abbr": "BIH",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Friends Arena",
+   "scorers": [
+    {
+     "min": "5'",
+     "kind": "goal",
+     "team": "466",
+     "s": "h",
+     "player": "Daniel Svensson",
+     "short": "D. Svensson",
+     "pid": "310709",
+     "label": "Daniel Svensson 5'"
+    },
+    {
+     "min": "11'",
+     "kind": "pen",
+     "team": "466",
+     "s": "h",
+     "player": "Viktor Gyökeres",
+     "short": "V. Gyökeres",
+     "pid": "258906",
+     "label": "Viktor Gyökeres (sp) 11'"
+    },
+    {
+     "min": "45'+2'",
+     "kind": "pen",
+     "team": "466",
+     "s": "h",
+     "player": "Viktor Gyökeres",
+     "short": "V. Gyökeres",
+     "pid": "258906",
+     "label": "Viktor Gyökeres (sp) 45'+2'"
+    },
+    {
+     "min": "47'",
+     "kind": "goal",
+     "team": "452",
+     "s": "a",
+     "player": "Armin Gigovic",
+     "short": "A. Gigovic",
+     "pid": "288932",
+     "label": "Armin Gigovic 47'"
+    },
+    {
+     "min": "62'",
+     "kind": "goal",
+     "team": "452",
+     "s": "a",
+     "player": "Sead Kolasinac",
+     "short": "S. Kolasinac",
+     "pid": "170553",
+     "label": "Sead Kolasinac 62'"
+    }
+   ]
+  },
+  {
+   "id": "401861172",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T14:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "445",
+    "name": "Cyprus",
+    "short": "Cyprus",
+    "abbr": "CYP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cyp.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "6775",
+    "name": "Montenegro",
+    "short": "Montenegro",
+    "abbr": "MNE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mtg.png",
+    "score": "4",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Alphamega Stadium",
+   "scorers": [
+    {
+     "min": "5'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "a",
+     "player": "Milutin Osmajic",
+     "short": "M. Osmajic",
+     "pid": "275444",
+     "label": "Milutin Osmajic 5'"
+    },
+    {
+     "min": "52'",
+     "kind": "pen",
+     "team": "445",
+     "s": "h",
+     "player": "Ioannis Pittas",
+     "short": "I. Pittas",
+     "pid": "221149",
+     "label": "Ioannis Pittas (sp) 52'"
+    },
+    {
+     "min": "58'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "a",
+     "player": "Milan Vukotic",
+     "short": "M. Vukotic",
+     "pid": "305207",
+     "label": "Milan Vukotic 58'"
+    },
+    {
+     "min": "67'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "a",
+     "player": "Nikola Krstovic",
+     "short": "N. Krstovic",
+     "pid": "258158",
+     "label": "Nikola Krstovic 67'"
+    },
+    {
+     "min": "83'",
+     "kind": "goal",
+     "team": "6775",
+     "s": "a",
+     "player": "Nikola Krstovic",
+     "short": "N. Krstovic",
+     "pid": "258158",
+     "label": "Nikola Krstovic 83'"
+    }
+   ]
+  },
+  {
+   "id": "401861171",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T14:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "456",
+    "name": "Latvia",
+    "short": "Latvia",
+    "abbr": "LVA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lva.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "579",
+    "name": "Armenia",
+    "short": "Armenia",
+    "abbr": "ARM",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fifa.armenia.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Skonto Stadions",
+   "scorers": []
+  },
+  {
+   "id": "401861173",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "583",
+    "name": "Belarus",
+    "short": "Belarus",
+    "abbr": "BLR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/blr.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "585",
+    "name": "Albania",
+    "short": "Albania",
+    "abbr": "ALB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alb.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Illovszky Rudolf Stadion",
+   "scorers": [
+    {
+     "min": "28'",
+     "kind": "goal",
+     "team": "585",
+     "s": "a",
+     "player": "Rey Manaj",
+     "short": "R. Manaj",
+     "pid": "210042",
+     "label": "Rey Manaj 28'"
+    },
+    {
+     "min": "57'",
+     "kind": "goal",
+     "team": "585",
+     "s": "a",
+     "player": "Elseid Hysaj",
+     "short": "E. Hysaj",
+     "pid": "167601",
+     "label": "Elseid Hysaj 57'"
+    }
+   ]
+  },
+  {
+   "id": "401861174",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "458",
+    "name": "Finland",
+    "short": "Finland",
+    "abbr": "FIN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fin.png",
+    "score": "7",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "588",
+    "name": "San Marino",
+    "short": "San Marino",
+    "abbr": "SMR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/smr.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Bolt Arena",
+   "scorers": [
+    {
+     "min": "8'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Adrian Svanbäck",
+     "short": "A. Svanbäck",
+     "pid": "407050",
+     "label": "Adrian Svanbäck 8'"
+    },
+    {
+     "min": "17'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Leo Walta",
+     "short": "L. Walta",
+     "pid": "323176",
+     "label": "Leo Walta 17'"
+    },
+    {
+     "min": "20'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Adrian Svanbäck",
+     "short": "A. Svanbäck",
+     "pid": "407050",
+     "label": "Adrian Svanbäck 20'"
+    },
+    {
+     "min": "26'",
+     "kind": "pen",
+     "team": "588",
+     "s": "a",
+     "player": "Nicola Nanni",
+     "short": "N. Nanni",
+     "pid": "277478",
+     "label": "Nicola Nanni (sp) 26'"
+    },
+    {
+     "min": "36'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Joel Pohjanpalo",
+     "short": "J. Pohjanpalo",
+     "pid": "175176",
+     "label": "Joel Pohjanpalo 36'"
+    },
+    {
+     "min": "42'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Joel Pohjanpalo",
+     "short": "J. Pohjanpalo",
+     "pid": "175176",
+     "label": "Joel Pohjanpalo 42'"
+    },
+    {
+     "min": "70'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Daniel Håkans",
+     "short": "D. Håkans",
+     "pid": "326624",
+     "label": "Daniel Håkans 70'"
+    },
+    {
+     "min": "76'",
+     "kind": "goal",
+     "team": "588",
+     "s": "a",
+     "player": "Nicola Nanni",
+     "short": "N. Nanni",
+     "pid": "277478",
+     "label": "Nicola Nanni 76'"
+    },
+    {
+     "min": "78'",
+     "kind": "goal",
+     "team": "458",
+     "s": "h",
+     "player": "Adrian Svanbäck",
+     "short": "A. Svanbäck",
+     "pid": "407050",
+     "label": "Adrian Svanbäck 78'"
+    }
+   ]
+  },
+  {
+   "id": "401861176",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "459",
+    "name": "Belgium",
+    "short": "Belgium",
+    "abbr": "BEL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
+    "score": "4",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "162",
+    "name": "Italy",
+    "short": "Italy",
+    "abbr": "ITA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ita.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "King Baudouin Stadium",
+   "scorers": [
+    {
+     "min": "11'",
+     "kind": "goal",
+     "team": "162",
+     "s": "a",
+     "player": "Pio Esposito",
+     "short": "P. Esposito",
+     "pid": "362674",
+     "label": "Pio Esposito 11'"
+    },
+    {
+     "min": "15'",
+     "kind": "goal",
+     "team": "459",
+     "s": "h",
+     "player": "Maxim De Cuyper",
+     "short": "M. De Cuyper",
+     "pid": "301327",
+     "label": "Maxim De Cuyper 15'"
+    },
+    {
+     "min": "22'",
+     "kind": "goal",
+     "team": "459",
+     "s": "h",
+     "player": "Nathan Ngoy",
+     "short": "N. Ngoy",
+     "pid": "318577",
+     "label": "Nathan Ngoy 22'"
+    },
+    {
+     "min": "26'",
+     "kind": "goal",
+     "team": "459",
+     "s": "h",
+     "player": "Jérémy Doku",
+     "short": "J. Doku",
+     "pid": "283672",
+     "label": "Jérémy Doku 26'"
+    },
+    {
+     "min": "80'",
+     "kind": "goal",
+     "team": "459",
+     "s": "h",
+     "player": "Diego Moreira",
+     "short": "D. Moreira",
+     "pid": "340678",
+     "label": "Diego Moreira 80'"
+    }
+   ]
+  },
+  {
+   "id": "401861178",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "477",
+    "name": "Croatia",
+    "short": "Croatia",
+    "abbr": "CRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "450",
+    "name": "Czechia",
+    "short": "Czechia",
+    "abbr": "CZE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Opus Arena",
+   "scorers": [
+    {
+     "min": "2'",
+     "kind": "goal",
+     "team": "477",
+     "s": "h",
+     "player": "Ivan Perisic",
+     "short": "I. Perisic",
+     "pid": "103485",
+     "label": "Ivan Perisic 2'"
+    },
+    {
+     "min": "84'",
+     "kind": "goal",
+     "team": "450",
+     "s": "a",
+     "player": "Adam Hlozek",
+     "short": "A. Hlozek",
+     "pid": "292169",
+     "label": "Adam Hlozek 84'"
+    },
+    {
+     "min": "87'",
+     "kind": "goal",
+     "team": "477",
+     "s": "h",
+     "player": "Lovro Majer",
+     "short": "L. Majer",
+     "pid": "237549",
+     "label": "Lovro Majer 87'"
+    }
+   ]
+  },
+  {
+   "id": "401861177",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "478",
+    "name": "France",
+    "short": "France",
+    "abbr": "FRA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "465",
+    "name": "Türkiye",
+    "short": "Türkiye",
+    "abbr": "TUR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Stade Atlantique",
+   "scorers": [
+    {
+     "min": "49'",
+     "kind": "og",
+     "team": "478",
+     "s": "h",
+     "player": "Emir Han Topcu",
+     "short": "E. Topcu",
+     "pid": "280711",
+     "label": "Emir Han Topcu (csc) 49'"
+    },
+    {
+     "min": "80'",
+     "kind": "goal",
+     "team": "478",
+     "s": "h",
+     "player": "Junior Kroupi",
+     "short": "J. Kroupi",
+     "pid": "361809",
+     "label": "Junior Kroupi 80'"
+    },
+    {
+     "min": "90'",
+     "kind": "goal",
+     "team": "465",
+     "s": "a",
+     "player": "Abdülkerim Bardakçi",
+     "short": "A. Bardakçi",
+     "pid": "193149",
+     "label": "Abdülkerim Bardakçi 90'"
+    }
+   ]
+  },
+  {
+   "id": "401861175",
+   "comp": "uefa.nations",
+   "date": "2026-11-15T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "164",
+    "name": "Spain",
+    "short": "Spain",
+    "abbr": "ESP",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "448",
+    "name": "England",
+    "short": "England",
+    "abbr": "ENG",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Riyadh Air Metropolitano",
+   "scorers": [
+    {
+     "min": "45'",
+     "kind": "pen",
+     "team": "448",
+     "s": "a",
+     "player": "Harry Kane",
+     "short": "H. Kane",
+     "pid": "142200",
+     "label": "Harry Kane (sp) 45'"
+    },
+    {
+     "min": "53'",
+     "kind": "goal",
+     "team": "448",
+     "s": "a",
+     "player": "Ezri Konsa",
+     "short": "E. Konsa",
+     "pid": "231859",
+     "label": "Ezri Konsa 53'"
+    },
+    {
+     "min": "57'",
+     "kind": "goal",
+     "team": "448",
+     "s": "a",
+     "player": "Ben White",
+     "short": "B. White",
+     "pid": "241077",
+     "label": "Ben White 57'"
+    },
+    {
+     "min": "65'",
+     "kind": "pen",
+     "team": "164",
+     "s": "h",
+     "player": "Mikel Oyarzabal",
+     "short": "M. Oyarzabal",
+     "pid": "229018",
+     "label": "Mikel Oyarzabal (sp) 65'"
+    },
+    {
+     "min": "75'",
+     "kind": "goal",
+     "team": "164",
+     "s": "h",
+     "player": "Nico Williams",
+     "short": "N. Williams",
+     "pid": "312146",
+     "label": "Nico Williams 75'"
+    }
+   ]
+  },
+  {
+   "id": "401861180",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T15:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "447",
+    "name": "Faroe Islands",
+    "short": "Faroe Islands",
+    "abbr": "FRO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fro.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "483",
+    "name": "Moldova",
+    "short": "Moldova",
+    "abbr": "MDA",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mda.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Tórsvollur",
+   "scorers": [
+    {
+     "min": "24'",
+     "kind": "goal",
+     "team": "447",
+     "s": "h",
+     "player": "Áki Debes Samuelsen",
+     "short": "Á. Samuelsen",
+     "pid": "305836",
+     "label": "Áki Debes Samuelsen 24'"
+    }
+   ]
+  },
+  {
+   "id": "401861181",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T15:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+10'",
+   "home": {
+    "id": "2619",
+    "name": "Kazakhstan",
+    "short": "Kazakhstan",
+    "abbr": "KAZ",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kaz.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "468",
+    "name": "Slovakia",
+    "short": "Slovakia",
+    "abbr": "SVK",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svk.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Astana Arena",
+   "scorers": [
+    {
+     "min": "29'",
+     "kind": "goal",
+     "team": "2619",
+     "s": "h",
+     "player": "Islam Chesnokov",
+     "short": "I. Chesnokov",
+     "pid": "363855",
+     "label": "Islam Chesnokov 29'"
+    },
+    {
+     "min": "56'",
+     "kind": "goal",
+     "team": "468",
+     "s": "a",
+     "player": "Róbert Bozeník",
+     "short": "R. Bozeník",
+     "pid": "277100",
+     "label": "Róbert Bozeník 56'"
+    },
+    {
+     "min": "65'",
+     "kind": "goal",
+     "team": "2619",
+     "s": "h",
+     "player": "Yan Vorogovskiy",
+     "short": "Y. Vorogovskiy",
+     "pid": "238359",
+     "label": "Yan Vorogovskiy 65'"
+    },
+    {
+     "min": "90'+5'",
+     "kind": "goal",
+     "team": "468",
+     "s": "a",
+     "player": "Adrian Kapralik",
+     "short": "A. Kapralik",
+     "pid": "304966",
+     "label": "Adrian Kapralik 90'+5'"
+    }
+   ]
+  },
+  {
+   "id": "401861183",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "444",
+    "name": "Estonia",
+    "short": "Estonia",
+    "abbr": "EST",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/est.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "462",
+    "name": "Bulgaria",
+    "short": "Bulgaria",
+    "abbr": "BUL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bul.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "A. Le Coq Arena",
+   "scorers": [
+    {
+     "min": "8'",
+     "kind": "goal",
+     "team": "444",
+     "s": "h",
+     "player": "Patrik Kristal",
+     "short": "P. Kristal",
+     "pid": "343261",
+     "label": "Patrik Kristal 8'"
+    },
+    {
+     "min": "45'+1'",
+     "kind": "goal",
+     "team": "462",
+     "s": "a",
+     "player": "Svetoslav Kovachev",
+     "short": "S. Kovachev",
+     "pid": "239427",
+     "label": "Svetoslav Kovachev 45'+1'"
+    },
+    {
+     "min": "60'",
+     "kind": "goal",
+     "team": "444",
+     "s": "h",
+     "player": "Kevor Palumets",
+     "short": "K. Palumets",
+     "pid": "305035",
+     "label": "Kevor Palumets 60'"
+    }
+   ]
+  },
+  {
+   "id": "401861182",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "470",
+    "name": "Iceland",
+    "short": "Iceland",
+    "abbr": "ISL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isl.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "582",
+    "name": "Luxembourg",
+    "short": "Luxembourg",
+    "abbr": "LUX",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lux.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Laugardalsvöllur",
+   "scorers": [
+    {
+     "min": "25'",
+     "kind": "goal",
+     "team": "470",
+     "s": "h",
+     "player": "Brynjólfur Willumsson",
+     "short": "B. Willumsson",
+     "pid": "289883",
+     "label": "Brynjólfur Willumsson 25'"
+    },
+    {
+     "min": "37'",
+     "kind": "pen",
+     "team": "470",
+     "s": "h",
+     "player": "Andri Gudjohnsen",
+     "short": "A. Gudjohnsen",
+     "pid": "326075",
+     "label": "Andri Gudjohnsen (sp) 37'"
+    },
+    {
+     "min": "50'",
+     "kind": "goal",
+     "team": "470",
+     "s": "h",
+     "player": "Mikael Ellertsson",
+     "short": "M. Ellertsson",
+     "pid": "324256",
+     "label": "Mikael Ellertsson 50'"
+    }
+   ]
+  },
+  {
+   "id": "401861184",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T17:00Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "460",
+    "name": "Lithuania",
+    "short": "Lithuania",
+    "abbr": "LTU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ltu.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "589",
+    "name": "Liechtenstein",
+    "short": "Liechtenstein",
+    "abbr": "LIE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/lie.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "S. Darius and S. Gireno Stadium",
+   "scorers": [
+    {
+     "min": "16'",
+     "kind": "goal",
+     "team": "460",
+     "s": "h",
+     "player": "Eligijus Jankauskas",
+     "short": "E. Jankauskas",
+     "pid": "237688",
+     "label": "Eligijus Jankauskas 16'"
+    },
+    {
+     "min": "50'",
+     "kind": "pen",
+     "team": "460",
+     "s": "h",
+     "player": "Manfredas Ruzgis",
+     "short": "M. Ruzgis",
+     "pid": "249918",
+     "label": "Manfredas Ruzgis (sp) 50'"
+    },
+    {
+     "min": "60'",
+     "kind": "goal",
+     "team": "589",
+     "s": "a",
+     "player": "Aron Sele",
+     "short": "A. Sele",
+     "pid": "236747",
+     "label": "Aron Sele 60'"
+    }
+   ]
+  },
+  {
+   "id": "401861185",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+2'",
+   "home": {
+    "id": "481",
+    "name": "Germany",
+    "short": "Germany",
+    "abbr": "GER",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
+    "score": "5",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "449",
+    "name": "Netherlands",
+    "short": "Netherlands",
+    "abbr": "NED",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Olympic Stadium Berlin",
+   "scorers": [
+    {
+     "min": "41'",
+     "kind": "goal",
+     "team": "481",
+     "s": "h",
+     "player": "Derry Scherhant",
+     "short": "D. Scherhant",
+     "pid": "346619",
+     "label": "Derry Scherhant 41'"
+    },
+    {
+     "min": "60'",
+     "kind": "goal",
+     "team": "481",
+     "s": "h",
+     "player": "Florian Wirtz",
+     "short": "F. Wirtz",
+     "pid": "303748",
+     "label": "Florian Wirtz 60'"
+    },
+    {
+     "min": "65'",
+     "kind": "goal",
+     "team": "481",
+     "s": "h",
+     "player": "Nico Schlotterbeck",
+     "short": "N. Schlotterbeck",
+     "pid": "286828",
+     "label": "Nico Schlotterbeck 65'"
+    },
+    {
+     "min": "71'",
+     "kind": "goal",
+     "team": "481",
+     "s": "h",
+     "player": "Florian Wirtz",
+     "short": "F. Wirtz",
+     "pid": "303748",
+     "label": "Florian Wirtz 71'"
+    },
+    {
+     "min": "77'",
+     "kind": "goal",
+     "team": "481",
+     "s": "h",
+     "player": "Brajan Gruda",
+     "short": "B. Gruda",
+     "pid": "357683",
+     "label": "Brajan Gruda 77'"
+    }
+   ]
+  },
+  {
+   "id": "401861179",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "16721",
+    "name": "Gibraltar",
+    "short": "Gibraltar",
+    "abbr": "GIB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gib.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "453",
+    "name": "Malta",
+    "short": "Malta",
+    "abbr": "MLT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mlt.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Europa Point Stadium",
+   "scorers": [
+    {
+     "min": "19'",
+     "kind": "goal",
+     "team": "453",
+     "s": "a",
+     "player": "Kurt Shaw",
+     "short": "K. Shaw",
+     "pid": "296834",
+     "label": "Kurt Shaw 19'"
+    },
+    {
+     "min": "81'",
+     "kind": "goal",
+     "team": "16721",
+     "s": "h",
+     "player": "Carlos Peliza Richards",
+     "short": "C. Richards",
+     "pid": "339893",
+     "label": "Carlos Peliza Richards 81'"
+    }
+   ]
+  },
+  {
+   "id": "401861188",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "455",
+    "name": "Greece",
+    "short": "Greece",
+    "abbr": "GRE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gre.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "6757",
+    "name": "Serbia",
+    "short": "Serbia",
+    "abbr": "SRB",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sba.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Panthessaliko Stadium",
+   "scorers": [
+    {
+     "min": "69'",
+     "kind": "goal",
+     "team": "455",
+     "s": "h",
+     "player": "Georgios Masouras",
+     "short": "G. Masouras",
+     "pid": "239483",
+     "label": "Georgios Masouras 69'"
+    }
+   ]
+  },
+  {
+   "id": "401861187",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "463",
+    "name": "North Macedonia",
+    "short": "North Macedonia",
+    "abbr": "MKD",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mkd.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "472",
+    "name": "Slovenia",
+    "short": "Slovenia",
+    "abbr": "SVN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/svn.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Toše Proeski Arena",
+   "scorers": [
+    {
+     "min": "29'",
+     "kind": "goal",
+     "team": "472",
+     "s": "a",
+     "player": "Danijel Sturm",
+     "short": "D. Sturm",
+     "pid": "322169",
+     "label": "Danijel Sturm 29'"
+    },
+    {
+     "min": "66'",
+     "kind": "goal",
+     "team": "472",
+     "s": "a",
+     "player": "David Zec",
+     "short": "D. Zec",
+     "pid": "311534",
+     "label": "David Zec 66'"
+    },
+    {
+     "min": "90'+1'",
+     "kind": "goal",
+     "team": "472",
+     "s": "a",
+     "player": "Danijel Sturm",
+     "short": "D. Sturm",
+     "pid": "322169",
+     "label": "Danijel Sturm 90'+1'"
+    }
+   ]
+  },
+  {
+   "id": "401861186",
+   "comp": "uefa.nations",
+   "date": "2026-11-16T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "475",
+    "name": "Switzerland",
+    "short": "Switzerland",
+    "abbr": "SUI",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
+    "score": "4",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "580",
+    "name": "Scotland",
+    "short": "Scotland",
+    "abbr": "SCO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Kybunpark",
+   "scorers": [
+    {
+     "min": "22'",
+     "kind": "og",
+     "team": "475",
+     "s": "h",
+     "player": "Lewis Ferguson",
+     "short": "L. Ferguson",
+     "pid": "202429",
+     "label": "Lewis Ferguson (csc) 22'"
+    },
+    {
+     "min": "47'",
+     "kind": "goal",
+     "team": "475",
+     "s": "h",
+     "player": "Winsley Boteli",
+     "short": "W. Boteli",
+     "pid": "406530",
+     "label": "Winsley Boteli 47'"
+    },
+    {
+     "min": "51'",
+     "kind": "goal",
+     "team": "475",
+     "s": "h",
+     "player": "Alvyn Sanches",
+     "short": "A. Sanches",
+     "pid": "310194",
+     "label": "Alvyn Sanches 51'"
+    },
+    {
+     "min": "89'",
+     "kind": "goal",
+     "team": "475",
+     "s": "h",
+     "player": "Zeki Amdouni",
+     "short": "Z. Amdouni",
+     "pid": "320757",
+     "label": "Zeki Amdouni 89'"
+    }
+   ]
+  },
+  {
+   "id": "401861196",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "452",
+    "name": "Bosnia-Herzegovina",
+    "short": "Bosnia-Herz",
+    "abbr": "BIH",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
+    "score": "2",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "473",
+    "name": "Romania",
+    "short": "Romania",
+    "abbr": "ROU",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rom.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Bilino Polje Stadium",
+   "scorers": [
+    {
+     "min": "6'",
+     "kind": "goal",
+     "team": "473",
+     "s": "a",
+     "player": "Daniel Birligea",
+     "short": "D. Birligea",
+     "pid": "335061",
+     "label": "Daniel Birligea 6'"
+    },
+    {
+     "min": "44'",
+     "kind": "goal",
+     "team": "452",
+     "s": "h",
+     "player": "Benjamin Tahirovic",
+     "short": "B. Tahirovic",
+     "pid": "352660",
+     "label": "Benjamin Tahirovic 44'"
+    },
+    {
+     "min": "82'",
+     "kind": "goal",
+     "team": "452",
+     "s": "h",
+     "player": "Esmir Bajraktarevic",
+     "short": "E. Bajraktarevic",
+     "pid": "325410",
+     "label": "Esmir Bajraktarevic 82'"
+    }
+   ]
+  },
+  {
+   "id": "401861194",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+9'",
+   "home": {
+    "id": "479",
+    "name": "Denmark",
+    "short": "Denmark",
+    "abbr": "DEN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/den.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "464",
+    "name": "Norway",
+    "short": "Norway",
+    "abbr": "NOR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Parken Stadium",
+   "scorers": [
+    {
+     "min": "11'",
+     "kind": "goal",
+     "team": "479",
+     "s": "h",
+     "player": "Rasmus Højlund",
+     "short": "R. Højlund",
+     "pid": "309273",
+     "label": "Rasmus Højlund 11'"
+    },
+    {
+     "min": "14'",
+     "kind": "goal",
+     "team": "479",
+     "s": "h",
+     "player": "Pierre-Emile Højbjerg",
+     "short": "P. Højbjerg",
+     "pid": "159543",
+     "label": "Pierre-Emile Højbjerg 14'"
+    },
+    {
+     "min": "37'",
+     "kind": "goal",
+     "team": "464",
+     "s": "a",
+     "player": "Erling Haaland",
+     "short": "E. Haaland",
+     "pid": "253989",
+     "label": "Erling Haaland 37'"
+    },
+    {
+     "min": "83'",
+     "kind": "goal",
+     "team": "464",
+     "s": "a",
+     "player": "Martin Ødegaard",
+     "short": "M. Ødegaard",
+     "pid": "203669",
+     "label": "Martin Ødegaard 83'"
+    },
+    {
+     "min": "90'+6'",
+     "kind": "pen",
+     "team": "464",
+     "s": "a",
+     "player": "Erling Haaland",
+     "short": "E. Haaland",
+     "pid": "253989",
+     "label": "Erling Haaland (sp) 90'+6'"
+    }
+   ]
+  },
+  {
+   "id": "401861191",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "480",
+    "name": "Hungary",
+    "short": "Hungary",
+    "abbr": "HUN",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hun.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "586",
+    "name": "Northern Ireland",
+    "short": "N Ireland",
+    "abbr": "NIR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nir.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Puskás Aréna",
+   "scorers": [
+    {
+     "min": "35'",
+     "kind": "goal",
+     "team": "480",
+     "s": "h",
+     "player": "Barnabás Varga",
+     "short": "B. Varga",
+     "pid": "246666",
+     "label": "Barnabás Varga 35'"
+    },
+    {
+     "min": "65'",
+     "kind": "goal",
+     "team": "586",
+     "s": "a",
+     "player": "Justin Devenny",
+     "short": "J. Devenny",
+     "pid": "291468",
+     "label": "Justin Devenny 65'"
+    }
+   ]
+  },
+  {
+   "id": "401861193",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+6'",
+   "home": {
+    "id": "461",
+    "name": "Israel",
+    "short": "Israel",
+    "abbr": "ISR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/isr.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "474",
+    "name": "Austria",
+    "short": "Austria",
+    "abbr": "AUT",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Nagyerdei Stadium",
+   "scorers": [
+    {
+     "min": "36'",
+     "kind": "goal",
+     "team": "461",
+     "s": "h",
+     "player": "Dor Peretz",
+     "short": "D. Peretz",
+     "pid": "221813",
+     "label": "Dor Peretz 36'"
+    },
+    {
+     "min": "62'",
+     "kind": "goal",
+     "team": "474",
+     "s": "a",
+     "player": "Sasa Kalajdzic",
+     "short": "S. Kalajdzic",
+     "pid": "259131",
+     "label": "Sasa Kalajdzic 62'"
+    }
+   ]
+  },
+  {
+   "id": "401861195",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "471",
+    "name": "Poland",
+    "short": "Poland",
+    "abbr": "POL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pol.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "466",
+    "name": "Sweden",
+    "short": "Sweden",
+    "abbr": "SWE",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
+    "score": "1",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Municipal Stadium Wroclaw",
+   "scorers": [
+    {
+     "min": "16'",
+     "kind": "goal",
+     "team": "471",
+     "s": "h",
+     "player": "Adrian Benedyczak",
+     "short": "A. Benedyczak",
+     "pid": "288482",
+     "label": "Adrian Benedyczak 16'"
+    },
+    {
+     "min": "24'",
+     "kind": "goal",
+     "team": "466",
+     "s": "a",
+     "player": "Hugo Larsson",
+     "short": "H. Larsson",
+     "pid": "336460",
+     "label": "Hugo Larsson 24'"
+    }
+   ]
+  },
+  {
+   "id": "401861192",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+3'",
+   "home": {
+    "id": "476",
+    "name": "Republic of Ireland",
+    "short": "Rep Ireland",
+    "abbr": "IRL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irl.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "18272",
+    "name": "Kosovo",
+    "short": "Kosovo",
+    "abbr": "KOS",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kosovo.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Aviva Stadium",
+   "scorers": [
+    {
+     "min": "28'",
+     "kind": "pen",
+     "team": "476",
+     "s": "h",
+     "player": "Troy Parrott",
+     "short": "T. Parrott",
+     "pid": "279790",
+     "label": "Troy Parrott (sp) 28'"
+    },
+    {
+     "min": "50'",
+     "kind": "pen",
+     "team": "476",
+     "s": "h",
+     "player": "Troy Parrott",
+     "short": "T. Parrott",
+     "pid": "279790",
+     "label": "Troy Parrott (sp) 50'"
+    },
+    {
+     "min": "75'",
+     "kind": "goal",
+     "team": "476",
+     "s": "h",
+     "player": "Jack Moylan",
+     "short": "J. Moylan",
+     "pid": "378638",
+     "label": "Jack Moylan 75'"
+    }
+   ]
+  },
+  {
+   "id": "401861190",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+5'",
+   "home": {
+    "id": "457",
+    "name": "Ukraine",
+    "short": "Ukraine",
+    "abbr": "UKR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ukr.png",
+    "score": "1",
+    "winner": true,
+    "so": null
+   },
+   "away": {
+    "id": "584",
+    "name": "Georgia",
+    "short": "Georgia",
+    "abbr": "GEO",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/geo.png",
+    "score": "0",
+    "winner": false,
+    "so": null
+   },
+   "venue": "Košická futbalová aréna (KFA)",
+   "scorers": [
+    {
+     "min": "1'",
+     "kind": "goal",
+     "team": "457",
+     "s": "h",
+     "player": "Danylo Sikan",
+     "short": "D. Sikan",
+     "pid": "288490",
+     "label": "Danylo Sikan 1'"
+    }
+   ]
+  },
+  {
+   "id": "401861189",
+   "comp": "uefa.nations",
+   "date": "2026-11-17T19:45Z",
+   "state": "post",
+   "status": "STATUS_FULL_TIME",
+   "detail": "FT",
+   "clock": "90'+4'",
+   "home": {
+    "id": "578",
+    "name": "Wales",
+    "short": "Wales",
+    "abbr": "WAL",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/wal.png",
+    "score": "2",
+    "winner": false,
+    "so": null
+   },
+   "away": {
+    "id": "482",
+    "name": "Portugal",
+    "short": "Portugal",
+    "abbr": "POR",
+    "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
+    "score": "3",
+    "winner": true,
+    "so": null
+   },
+   "venue": "Cardiff City Stadium",
+   "scorers": [
+    {
+     "min": "11'",
+     "kind": "goal",
+     "team": "482",
+     "s": "a",
+     "player": "Bruno Fernandes",
+     "short": "B. Fernandes",
+     "pid": "124091",
+     "label": "Bruno Fernandes 11'"
+    },
+    {
+     "min": "13'",
+     "kind": "goal",
+     "team": "578",
+     "s": "h",
+     "player": "David Brooks",
+     "short": "D. Brooks",
+     "pid": "72487",
+     "label": "David Brooks 13'"
+    },
+    {
+     "min": "40'",
+     "kind": "goal",
+     "team": "578",
+     "s": "h",
+     "player": "Sorba Thomas",
+     "short": "S. Thomas",
+     "pid": "250478",
+     "label": "Sorba Thomas 40'"
+    },
+    {
+     "min": "43'",
+     "kind": "goal",
+     "team": "482",
+     "s": "a",
+     "player": "Pedro Neto",
+     "short": "P. Neto",
+     "pid": "256115",
+     "label": "Pedro Neto 43'"
+    },
+    {
+     "min": "70'",
+     "kind": "goal",
+     "team": "482",
+     "s": "a",
+     "player": "Carlos Forbs",
+     "short": "C. Forbs",
+     "pid": "78836",
+     "label": "Carlos Forbs 70'"
+    }
+   ]
+  }
+ ],
+ "table": null
+}

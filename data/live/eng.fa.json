@@ -1,0 +1,9 @@
+{
+ "id": "eng.fa",
+ "name": "FA Cup",
+ "short": "FA Cup",
+ "standings": false,
+ "secondary": true,
+ "matches": [],
+ "table": null
+}

@@ -1,0 +1,134 @@
+{
+ "source": "ESPN (API publique site.api.espn.com)",
+ "updatedAt": "2026-11-20T04:10:34.458Z",
+ "competitions": [
+  {
+   "id": "fra.1",
+   "name": "Ligue 1",
+   "short": "L1",
+   "standings": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "uefa.champions",
+   "name": "Ligue des champions",
+   "short": "LDC",
+   "standings": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "eng.1",
+   "name": "Premier League",
+   "short": "PL",
+   "standings": true,
+   "matches": 29,
+   "hasTable": true
+  },
+  {
+   "id": "esp.1",
+   "name": "Liga",
+   "short": "Liga",
+   "standings": true,
+   "matches": 22,
+   "hasTable": true
+  },
+  {
+   "id": "ita.1",
+   "name": "Serie A",
+   "short": "Serie A",
+   "standings": true,
+   "matches": 20,
+   "hasTable": true
+  },
+  {
+   "id": "ger.1",
+   "name": "Bundesliga",
+   "short": "Bundesliga",
+   "standings": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "uefa.nations",
+   "name": "Ligue des nations",
+   "short": "LDN",
+   "standings": false,
+   "matches": 52,
+   "hasTable": false
+  },
+  {
+   "id": "uefa.europa",
+   "name": "Ligue Europa",
+   "short": "LE",
+   "standings": true,
+   "secondary": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "uefa.europa.conf",
+   "name": "Ligue Conférence",
+   "short": "LC",
+   "standings": true,
+   "secondary": true,
+   "matches": 18,
+   "hasTable": true
+  },
+  {
+   "id": "fra.coupe_de_france",
+   "name": "Coupe de France",
+   "short": "CdF",
+   "standings": false,
+   "secondary": true,
+   "matches": 135,
+   "hasTable": false
+  },
+  {
+   "id": "eng.fa",
+   "name": "FA Cup",
+   "short": "FA Cup",
+   "standings": false,
+   "secondary": true,
+   "matches": 0,
+   "hasTable": false
+  },
+  {
+   "id": "eng.league_cup",
+   "name": "Coupe de la Ligue anglaise",
+   "short": "Carabao Cup",
+   "standings": false,
+   "secondary": true,
+   "matches": 0,
+   "hasTable": false
+  },
+  {
+   "id": "esp.copa_del_rey",
+   "name": "Coupe du Roi",
+   "short": "Copa",
+   "standings": false,
+   "secondary": true,
+   "matches": 16,
+   "hasTable": false
+  },
+  {
+   "id": "ita.coppa_italia",
+   "name": "Coupe d'Italie",
+   "short": "Coppa",
+   "standings": false,
+   "secondary": true,
+   "matches": 2,
+   "hasTable": false
+  },
+  {
+   "id": "ger.dfb_pokal",
+   "name": "Coupe d'Allemagne",
+   "short": "DFB-Pokal",
+   "standings": false,
+   "secondary": true,
+   "matches": 8,
+   "hasTable": false
+  }
+ ]
+}
