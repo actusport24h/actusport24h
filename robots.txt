@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://actusport24h.fr/sitemap.xml
+Sitemap: https://actusport24h.fr/news-sitemap.xml
